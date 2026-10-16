@@ -1,0 +1,8 @@
+PySide6
+numpy
+opencv-python
+OpenEXR
+# detourage (detourer.py, trier_banque.py)
+torch
+ultralytics
+transformers

@@ -1,0 +1,27 @@
+# donnees (sources video, banques de sequences, rendus) : jamais publiees
+brut/
+banque/
+banque_manifestants/
+rendus/
+.cache/
+.ecartes/
+*.exr
+*.mp4
+*.webm
+*.mov
+# modeles telecharges
+*.pt
+# journaux, listes de liens, scripts de telechargement
+*.log
+journal.txt
+liens.txt
+telecharger.bat
+traites.txt
+archive*.txt
+tri*.csv
+index.csv
+# reglages locaux
+foule/reglages.json
+__pycache__/
+*.pyc
+*.bak
